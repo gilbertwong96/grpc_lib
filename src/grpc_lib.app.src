@@ -1,6 +1,6 @@
 {application, grpc_lib,
  [{description, "Shared functions for grpc and grpc_client"},
-  {vsn, "0.1.1"},
+  {vsn, "git"},
   {registered, []},
   {applications,
    [kernel,
